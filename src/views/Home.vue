@@ -1,7 +1,19 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <ul id="menu">
+      <li data-menuanchor="firstPage" class="active"><a href="#firstPage">First section</a></li>
+      <li data-menuanchor="secondPage"><a href="#secondPage">Second section</a></li>
+      <li data-menuanchor="thirdPage"><a href="#thirdPage">Third section</a></li>
+      <li data-menuanchor="fourthPage"><a href="#fourthPage">Fourth section</a></li>
+    </ul>
+    <full-page ref="fullpage" :options="options" id="fullpage">
+      <div class="section">
+        First section ...
+      </div>
+      <div class="section">
+        Second section ...
+      </div>
+    </full-page>
   </div>
 </template>
 
@@ -12,7 +24,13 @@ import HelloWorld from '@/components/HelloWorld.vue'
 export default {
   name: 'Home',
   components: {
-    HelloWorld
   }
 }
 </script>
+<style scoped>
+  #menu{
+    position: absolute;
+    right: 100px;
+    top:200px;
+  }
+</style>
