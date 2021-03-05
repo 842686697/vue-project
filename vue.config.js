@@ -13,5 +13,6 @@ module.exports = {
       title: '简历',
       chunks: ['chunk-vendors', 'chunk-common', 'index']
     }
-  }
+  },
+  publicPath:'./'
 }
