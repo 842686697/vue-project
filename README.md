@@ -1,8 +1,8 @@
-##前言
-因为最近在学习vue，所以用vue写了一个简单的网页版简历，由于只是一个静态页面，所以没有涉及到后台的编写
-##技术栈
-vue2 + Vuetify + webpack + vue-fullpage
-##效果演示
-[在线演示](https://842686697.github.io/vue-project/dist/)
-##结语
+## 前言 <br/>
+因为最近在学习vue，所以用vue写了一个简单的网页版简历，由于只是一个静态页面，所以没有涉及到后台的编写 <br/>
+## 技术栈 <br/>
+vue2 + Vuetify + webpack + vue-fullpage <br/>
+## 效果演示 <br/>
+[在线演示](https://842686697.github.io/vue-project/dist/) <br/>
+## 结语 <br/>
 页面设计的非常简单，过程中没遇到什么问题。也因为过于简单，看起来好像缺少一些东西，希望在接下来的学习中弥补自己的不足
