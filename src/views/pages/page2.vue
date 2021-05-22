@@ -3,9 +3,10 @@
         <div class="text_box">
             <div class="title">专业技能</div>
             <v-divider></v-divider>
-            <div class="text">前端基础：(均熟悉) html、css、javascript</div>
-            <div class="text">前端框架：(熟悉) vuetify 库,(了解) bootstrap 库 ,(熟悉) Vue及Vue-cli、router </div>
-            <div class="text">运行环境：(了解) NodeJS </div>
+            <div class="text">前端基础：(均熟悉) html、css、javascript，(了解) es6</div>
+            <div class="text">前端框架：(熟悉) Vue及Vue-cli、vue-router </div>
+            <div class="text">组件库：(熟悉) vuetify 库,(了解) bootstrap 库 </div>
+            <div class="text">后端：(了解) express </div>
             <div class="text">版本管理：(熟悉) git </div>
         </div>
     </div>

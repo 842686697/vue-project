@@ -15,12 +15,13 @@
                 <div>专业 | 计算机科学与技术</div>
                 <div>手机 | 13330221130</div>
                 <div>邮箱 | 842686697@qq.com</div>
+                <div>github | https://github.com/842686697</div>
             </div>
             <div class="info">
                 <div>我是一个做事认真，吃苦耐劳的人</div>
                 <div>拥有快速学习的能力</div>
                 <div>在工作上也能用心对待</div>
-                <div>希望能给予我一个宝贵的机会</div>
+                <div>希望能给予我一个宝贵的实习机会</div>
             </div>
         </div>
     </div>
